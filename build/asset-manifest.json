@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Waynexchan/robofds_redux.git/static/css/main.1ffcb322.css",
+    "main.js": "/Waynexchan/robofds_redux.git/static/js/main.40ecaf87.js",
+    "static/media/SEGA.woff": "/Waynexchan/robofds_redux.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Waynexchan/robofds_redux.git/index.html",
+    "main.1ffcb322.css.map": "/Waynexchan/robofds_redux.git/static/css/main.1ffcb322.css.map",
+    "main.40ecaf87.js.map": "/Waynexchan/robofds_redux.git/static/js/main.40ecaf87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ffcb322.css",
+    "static/js/main.40ecaf87.js"
+  ]
+}
